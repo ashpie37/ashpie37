@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashpie37
-- 👀 I’m interested in back-end languages!
+- 👀 I’m interested in back-end languages & Android app development.
 - 🌱 I’m currently learning Python!
 - 💞️ I’m looking to collaborate on building apps and websites!
 - 📫 How to reach me via email: abarnes377@gmail.com
