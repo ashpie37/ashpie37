@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ashpie37
 - 👀 I’m interested in back-end, front-end, and app development.
-- 🌱 I’m currently building with Python, HTML/CSS, JS, & Go!
+- 🌱 I’m currently building with Python, HTML/CSS, JS, & Java!
 - 💞️ I’m looking to collaborate on building apps and websites!
-- 📫 How to reach me via email: abarnes377@gmail.com
 Thanks for reading and hope to connect with you soon! :)
 
 <!---
