@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashpie37
-- 👀 I’m interested in back-end, front-end, and app development.
+- 👀 I’m interested in full-stack and mobile development.
 - 🌱 I’m currently building with Python, HTML/CSS, JS, & C/C++!
 - 💞️ I’m looking to collaborate on building apps and websites!
 Thanks for reading and hope to connect with you soon! :)
